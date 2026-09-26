@@ -23,6 +23,7 @@ Diseño materiales que se pueden usar en el aula de verdad: HTML offline, labora
 | Pase (versión de curso) | Estaciones + registro en Google Sheets | [pase-laboratorio](https://github.com/kekule91/pase-laboratorio) |
 | Demo Pages | Pase + editor de dibujos de química | [kekule91.github.io](https://kekule91.github.io/) |
 | [registro-escolar](https://github.com/kekule91/registro-escolar) | App web para docentes: notas, presentismo por bloques y seguimiento de clases (demo sin datos reales) | [repo](https://github.com/kekule91/registro-escolar) |
+| [simuladores-reacciones](https://github.com/kekule91/simuladores-reacciones) | 4 simuladores Johnstone: balanceo, cinética, equilibrio y clasificación (HTML offline) | [repo](https://github.com/kekule91/simuladores-reacciones) |
 
 ## Stack que sí publico
 
